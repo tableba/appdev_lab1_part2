@@ -5,12 +5,9 @@ import com.example.lab1_part2.R
 class Datasource {
     fun loadImages(): List<Int> {
         return listOf(
-            R.drawable.ic_launcher_background,
-            R.drawable.ic_launcher_background,
-            R.drawable.ic_launcher_background,
-            R.drawable.ic_launcher_background,
-            R.drawable.ic_launcher_background,
-            R.drawable.ic_launcher_background,
+            R.drawable.apple,
+            R.drawable.apple2,
+            R.drawable.apple3,
         )
     }
 }
